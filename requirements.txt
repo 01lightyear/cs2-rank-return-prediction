@@ -1,0 +1,11 @@
+numpy>=1.21.0
+pandas>=1.3.0
+
+xgboost>=1.5.0
+
+matplotlib>=3.5.0
+mplfinance>=0.12.9b7
+
+scipy>=1.7.0
+
+requests>=2.25.0
