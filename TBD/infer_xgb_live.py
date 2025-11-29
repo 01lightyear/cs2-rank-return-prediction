@@ -33,7 +33,7 @@ from TBD.preprocess_xgb import (  # noqa: E402  pylint: disable=wrong-import-pos
 )
 
 
-DEFAULT_MODEL = PROJECT_ROOT / "TBD" / "xgb_rank_model.json"
+DEFAULT_MODEL = PROJECT_ROOT / "TBD" / "xgb_rank_model1.json"
 
 
 def parse_args() -> argparse.Namespace:
